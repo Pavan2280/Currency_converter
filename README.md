@@ -14,7 +14,7 @@ Using an online C compiler like OnlineGDB is a convenient way to compile and run
 
 1) Access the Online Compiler:
 + Open your web browser and visit the OnlineGDB website at
-  https://www.onlinegdb.com/online_c_compiler.
+  https://www.onlinegdb.com/online_c_compiler
 
 2) Create a New C Program:
 + Click on the "New" button or navigate to "File" > "New" to create a new C program.
