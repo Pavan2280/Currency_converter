@@ -31,3 +31,6 @@ Using an online C compiler like OnlineGDB is a convenient way to compile and run
 
 6) View Output:
 + The output of your program will be displayed in the console area. You can review the converted currency amount there.
+
+# Sample Output
+![image](https://github.com/Pavan2280/Currency_converter/assets/131603225/2db07e97-7933-4409-9605-aba4dfefd171)
