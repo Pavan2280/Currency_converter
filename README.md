@@ -9,7 +9,7 @@ This is a simple currency converter program written in C. It allows you to conve
 - Standard Input/Output Library (stdio.h): This library provides functions for input and output operations in C. It's used to take user input, display output, and perform I/O 
   operations in the program.
 
-# Usgae
+# Online compilation
 Using an online C compiler like OnlineGDB is a convenient way to compile and run C programs, especially if you don't have a C development environment set up on your local machine. These online compilers provide an integrated development environment (IDE) accessible through a web browser. Here's how you can use it:
 
 1) Access the Online Compiler:
