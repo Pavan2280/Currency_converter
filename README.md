@@ -22,7 +22,7 @@ Using an online C compiler like OnlineGDB is a convenient way to compile and run
 3) Write Your C Code:
 + In the code editor, write or paste your C code (e.g., the currency converter program).
 
-4)Compile and Run:
+4) Compile and Run:
 + Click the "Run" button, which typically looks like a play button or "►."
   The online compiler will compile your code and execute it. You'll see the program's output in the console area below the code editor.
 
